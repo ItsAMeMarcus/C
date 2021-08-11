@@ -1,0 +1,1 @@
+Escreva um programa que leia um número e imprima se este número é ou não par

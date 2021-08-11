@@ -1,0 +1,1 @@
+Ler um número inteiro e exibir o seu sucessor.
