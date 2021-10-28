@@ -1,0 +1,1 @@
+int AreaRetangulo(int B, int H);
