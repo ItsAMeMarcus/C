@@ -9,3 +9,9 @@ Portfólio/Exercícios em linguagem C
 - Estruturas de Repetição
 
 - Vetores
+
+- Modularização
+
+- Função
+
+- Struct
